@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next js and React Native**
 
-- 👨‍💻 All of my projects are available at [https://3d-update.vercel.app/](https://3d-update.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://3d-update.vercel.app/](https://arun-threejs-portfolio.netlify.app/)
 
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **arunkumarame04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XoxE0k1IRE0HXMdt3oRWZqE0cNdzFcjI/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uh59EXt2hfv2xhDXVlTKZo-iN9enpD-U/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
