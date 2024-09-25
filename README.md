@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next js and React Native**
 
-- 👨‍💻 All of my projects are available at [https://3d-update.vercel.app/](https://arun-threejs-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arun-threejs-portfolio.netlify.app/](https://arun-threejs-portfolio.netlify.app/)
 
 - 💬 Ask me about **React js**
 
