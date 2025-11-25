@@ -91,9 +91,6 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
   <img src="https://streak-stats.demolab.com?user=arunkumar204&theme=dark" alt="streak" />
 </p>
 
-> **Tip:** To enable the animated "snake" or other contribution graph visuals, add this service or image generated externally and embed it as an image in this section.
-
----
 
 ## 🗺️ Roadmap — Next 6 months
 
