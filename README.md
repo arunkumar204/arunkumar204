@@ -5,7 +5,7 @@
    ============================ -->
 
 <p align="center">
-  <img src="CodeWithArun.png" width="300" alt="CodeWithArun Logo" />
+  <img src="CodeWithArun-preview.png" width="200" alt="CodeWithArun Logo" />
 </p>
 
 
