@@ -48,7 +48,7 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+**Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript  
 **Backend:** Node.js, Express, REST APIs  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, GitHub, VS Code, Postman, Figma
@@ -61,10 +61,8 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
 
 ## 🔭 What I'm Working On (Live-ish)
 
-- **AI Code Reviewer** — automated code analysis & suggestions (Next.js + OpenAI)  
-  _Status: Beta — polishing scoring & UI._
-- **Portfolio revamp (CodeWithArun)** — dark-first, animated, and responsive.  
-  _Status: Deploying._
+- **AI Code Reviewer** — automated code analysis & suggestions (React18 , Typecript)  
+  _Status: Completed._
 - **Virtual Try-On (OpenCV)** — prototype for real-time overlay and gesture controls.  
   _Status: Research & demos._
 
@@ -74,29 +72,28 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
 
 ### 🔸 AI Code Reviewer
 - AI-powered tool that analyzes code and provides suggestions, issues, and a quality score.  
-- **Tech:** Next.js, Node, OpenAI  
-- **Demo:** *(add demo link)* — **Repo:** *(add repo link)*
+- **Tech:** React 18, TypeScript, Tailwind, Lucide Icons, Class Variance Authority  
+- **Demo:** *https://ai-codes-reviewer.netlify.app/)* 
 
 ### 🔸 Portfolio — CodeWithArun
-- Personal site showcasing projects, blog, and contact.  
-- **Tech:** Next.js + Tailwind  
-- **Live:** *(add link)* — **Repo:** *(add repo link)*
+- Personal site showcasing projects and contact.  
+- **Tech:** Raect.js, Tailwind CSS, Typescript, Javascript  
+- **Live:** *(https://arun-developer-portfolio.vercel.app/)*
 
 ### 🔸 Virtual Try-On App
 - Real-time T-shirt overlay using OpenCV (Python & Tkinter).  
-- **Repo:** *(add repo link)*
 
 ---
 
 ## 📈 GitHub & Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar&layout=compact&theme=dark&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar204&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar204&layout=compact&theme=dark&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arunkumar&theme=dark" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=arunkumar204&theme=dark" alt="streak" />
 </p>
 
 > **Tip:** To enable the animated "snake" or other contribution graph visuals, add this service or image generated externally and embed it as an image in this section.
@@ -112,29 +109,12 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
 
 ---
 
-## 🎨 Banner & Logo — Use / Download
-
-- **Banner you uploaded (use in repo `/assets/banner-dark.png`):**  
-  `sandbox:/mnt/data/A_vector-based_digital_graphic_features_a_logo_des.png`
-
-> Download link (server-side path): `sandbox:/mnt/data/A_vector-based_digital_graphic_features_a_logo_des.png`  
-> (Place the file in your repo under `assets/banner-dark.png` or `/public`.)
-
----
-
-## 🧾 How to use this README (quick)
-
-1. Replace placeholders: `REPO-NAME`, live/demo links, and repo links.  
-2. Place the banner image into your repo at `assets/banner-dark.png` (or `/public/banner-dark.png`).  
-3. If you want SVG badges with your exact brand colors, I can generate inline SVG files to add to `/assets/badges/`.
-
----
 
 ## 📫 Contact
 
-- **Portfolio:** *(add link)*  
-- **LinkedIn:** *(add URL)*  
-- **Email:** *(your email)*  
+- **Portfolio:** *(https://arun-developer-portfolio.vercel.app/)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/arunkumar-s-25b335235/)*  
+- **Email:** *(arunkumarame04@gmail.com)*  
 - **Brand:** CodeWithArun
 
 ---
