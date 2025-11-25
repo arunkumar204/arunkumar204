@@ -83,14 +83,15 @@ I’m **Arunkumar** — a passionate Full Stack Developer building modern, acces
 ## 📈 GitHub & Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar204&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar204&layout=compact&theme=dark&hide_border=true" alt="top langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arunkumar204&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar204&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arunkumar204&theme=dark" alt="streak" />
 </p>
 
+---
 
 ## 🗺️ Roadmap — Next 6 months
 
