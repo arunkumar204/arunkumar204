@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif=Hi+I'm+Arunkumar+👋;Full+Stack+Developer+%7C+CodeWithArun;JavaScript+%7C+React+%7C+Next.js" alt="typing">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="typing">
 </h1>
 
 <p align="center">
