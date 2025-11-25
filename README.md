@@ -5,7 +5,7 @@
    ============================ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/codewitharun%20logo.png" width="300" alt="CodeWithArun Logo" />
+  <img src="https://raw.githubusercontent.com/arunkumar204/REPO/main/codewitharun%20logo.png" width="300" alt="CodeWithArun Logo" />
 </p>
 
 
