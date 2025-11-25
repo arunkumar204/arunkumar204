@@ -1,26 +1,115 @@
-<h1 align="center">Hi 👋, I'm Arunkumar S</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="CodeWithArun Banner">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar204" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Arunkumar+👋;Full+Stack+Developer+🚀;JavaScript+%7C+React+%7C+Next.js+Lover;Building+Modern+Web+Experiences" />
+</h1>
 
+<p align="center">
+  <b>Professional Developer • Problem Solver • Tech Explorer</b>
+</p>
 
-- 🔭 I’m currently working on [Yoom Website](https://arun-zoom.vercel.app/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arunkumar&style=for-the-badge&color=blue" />
+</p>
 
-- 🌱 I’m currently learning **Next js and React Native**
+---
 
-- 👨‍💻 All of my projects are available at [https://arun-developer-portfolio.vercel.app/](https://arun-developer-portfolio.vercel.app/)
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1292m0HTF53UA4V7qHUS0Pl8WlVncRWoT/view?usp=sharing]
+I'm **Arunkumar**, a passionate **Full Stack Developer** who loves building clean, scalable, and impactful web applications.
 
-## 🤝 Connect with Me
+✨ Fast learner  
+✨ Strong self-learning attitude  
+✨ Enjoy exploring new technologies  
+✨ Love solving real-world problems  
 
-- 📧 **Email:** arunkumarame04@gmail.com  
-- 🌐 **LinkedIn:** [https://www.linkedin.com/in/arunkumar-s-25b335235/)
+My main expertise is **JavaScript**, and I work across the full stack from UI to backend APIs.
 
-## 🛠️ Skills & Tools
+---
 
-- **Languages:** Javascript, Pythonm Typescript, SQL  
-- **Frameworks:** Django, Flask, React, Next.js, Vue.js, Three.js  
-- **Libraries:** TensorFlow, Scikit-Learn, OpenCV, pandas, NumPy  
-- **Tools:** Git, Docker, Jenkins, MongoDB
+# 🎯 My Brand — **CodeWithArun**
+<p align="center">
+  <img src="https://i.imgur.com/MJJuNsj.png" width="200" alt="CodeWithArun Logo"/>
+</p>
+
+### **CodeWithArun is my personal developer identity**
+✔️ Clean, modern, developer-friendly content  
+✔️ Open-source tools & utilities  
+✔️ AI-powered coding projects  
+✔️ Portfolio + project ecosystem  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss" />
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+---
+
+## 📦 Featured Projects
+
+### 🔹 **AI Code Reviewer**
+AI-powered tool that reviews developer code and gives suggestions, error analysis, and quality scoring.
+
+🔗 **Live Demo:** *(Add link)*  
+🔗 **Source Code:** *(Add GitHub repo)*  
+
+---
+
+### 🔹 **Portfolio Website**
+Modern portfolio built using **Next.js + Tailwind CSS**, featuring animations, project pages, and responsive design.
+
+🔗 **Live Demo:** *(Add link)*  
+🔗 **Source Code:** *(Add GitHub repo)*  
+
+---
+
+### 🔹 **Virtual Try-On Application (AI + OpenCV)**
+Real-time T-shirt fitting system using OpenCV & Tkinter with gesture detection.
+
+🔗 **Source Code:** *(Add repo link)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arunkumar&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** (Add link)  
+- 🔗 **LinkedIn:** (Add link)  
+- 📧 **Email:** (Your email)  
+- 🏷️ **Brand:** CodeWithArun  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving my repositories a star!
+</p>
