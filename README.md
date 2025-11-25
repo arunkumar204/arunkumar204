@@ -32,7 +32,7 @@ My main expertise is **JavaScript**, and I work across the full stack from UI to
 
 # 🎯 My Brand — **CodeWithArun**
 <p align="center">
-  <img src="https://i.imgur.com/MJJuNsj.png" width="200" alt="CodeWithArun Logo"/>
+  <img src=""C:\Users\jayam\Downloads\ChatGPT Image Nov 25, 2025, 10_52_49 AM.png"" width="200" alt="CodeWithArun Logo"/>
 </p>
 
 ### **CodeWithArun is my personal developer identity**
