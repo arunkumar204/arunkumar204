@@ -19,11 +19,6 @@
 
 ---
 
-## 🎨 Theme — Dark Mode (Primary)
-> This README is designed to look excellent in dark mode (GitHub renders README in user theme). Use dark banners and neon badges for the best effect.
-
----
-
 ## 👋 About Me
 
 I’m **Arunkumar** — a passionate Full Stack Developer building modern, accessible web experiences under my brand **CodeWithArun**.
