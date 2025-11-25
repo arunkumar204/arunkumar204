@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunkumar&style=for-the-badge&color=brightgreen" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arunkumar204&style=for-the-badge&color=brightgreen" alt="profile views" />
   &nbsp;
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge" alt="email" /></a>
   &nbsp;
