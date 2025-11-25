@@ -5,9 +5,9 @@
    ============================ -->
 
 <p align="center">
-  <!-- Banner image (downloaded to your repo or served from public/) -->
-  <img src=""C:/Users/jayam/Downloads/codewitharun logo.png"" alt="CodeWithArun Banner" width="100%" />
+  <img src="sandbox:/mnt/data/codewitharun logo.png" width="300" alt="CodeWithArun Logo" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Arunkumar+👋;Full+Stack+Developer+%7C+CodeWithArun;JavaScript+%7C+React+%7C+Next.js" alt="typing">
