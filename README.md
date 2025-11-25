@@ -1,115 +1,148 @@
-<!-- Banner -->
+<!-- ============================
+     CodeWithArun — GitHub README
+     Dark-first premium template
+     Copy this into README.md
+   ============================ -->
+
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="CodeWithArun Banner">
+  <!-- Banner image (downloaded to your repo or served from public/) -->
+  <img src="https://raw.githubusercontent.com/Arunkumar/REPO-NAME/main/assets/banner-dark.png" alt="CodeWithArun Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Arunkumar+👋;Full+Stack+Developer+🚀;JavaScript+%7C+React+%7C+Next.js+Lover;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Arunkumar+👋;Full+Stack+Developer+%7C+CodeWithArun;JavaScript+%7C+React+%7C+Next.js" alt="typing">
 </h1>
 
 <p align="center">
-  <b>Professional Developer • Problem Solver • Tech Explorer</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunkumar&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Arunkumar&style=for-the-badge&color=brightgreen" alt="profile views" />
+  &nbsp;
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge" alt="email" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Brand-CodeWithArun-8A2BE2?style=for-the-badge" alt="brand" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I'm **Arunkumar**, a passionate **Full Stack Developer** who loves building clean, scalable, and impactful web applications.
-
-✨ Fast learner  
-✨ Strong self-learning attitude  
-✨ Enjoy exploring new technologies  
-✨ Love solving real-world problems  
-
-My main expertise is **JavaScript**, and I work across the full stack from UI to backend APIs.
+## 🎨 Theme — Dark Mode (Primary)
+> This README is designed to look excellent in dark mode (GitHub renders README in user theme). Use dark banners and neon badges for the best effect.
 
 ---
 
-# 🎯 My Brand — **CodeWithArun**
-<p align="center">
-  <img src=""C:\Users\jayam\Downloads\ChatGPT Image Nov 25, 2025, 10_52_49 AM.png"" width="200" alt="CodeWithArun Logo"/>
-</p>
+## 👋 About Me
 
-### **CodeWithArun is my personal developer identity**
-✔️ Clean, modern, developer-friendly content  
-✔️ Open-source tools & utilities  
-✔️ AI-powered coding projects  
-✔️ Portfolio + project ecosystem  
+I’m **Arunkumar** — a passionate Full Stack Developer building modern, accessible web experiences under my brand **CodeWithArun**.
+
+- 🔭 Currently building AI-driven developer tools and polished web UIs  
+- 🌱 Learning advanced ML integration & performant React rendering  
+- 💼 Open to collaborations and roles in frontend / full-stack / AI tooling  
+- ⚡ Core: **JavaScript**, **React**, **Next.js**, **Node.js**
+
+---
+
+## 🔖 Branded Badges (SVG)
+
+<p align="center">
+  <!-- Inline data SVGs or hosted images work best — below are badge image links -->
+  <img src="https://img.shields.io/badge/CodeWithArun-Full%20Stack%20Dev-8A2BE2?style=for-the-badge" alt="brand-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Lover-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-green?style=for-the-badge" alt="opportunities" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss" />
+**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Postman, Figma
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,mongodb,mysql,git,github,vscode" alt="tech icons" />
+</p>
 
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+---
 
-### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+## 🔭 What I'm Working On (Live-ish)
+
+- **AI Code Reviewer** — automated code analysis & suggestions (Next.js + OpenAI)  
+  _Status: Beta — polishing scoring & UI._
+- **Portfolio revamp (CodeWithArun)** — dark-first, animated, and responsive.  
+  _Status: Deploying._
+- **Virtual Try-On (OpenCV)** — prototype for real-time overlay and gesture controls.  
+  _Status: Research & demos._
 
 ---
 
 ## 📦 Featured Projects
 
-### 🔹 **AI Code Reviewer**
-AI-powered tool that reviews developer code and gives suggestions, error analysis, and quality scoring.
+### 🔸 AI Code Reviewer
+- AI-powered tool that analyzes code and provides suggestions, issues, and a quality score.  
+- **Tech:** Next.js, Node, OpenAI  
+- **Demo:** *(add demo link)* — **Repo:** *(add repo link)*
 
-🔗 **Live Demo:** *(Add link)*  
-🔗 **Source Code:** *(Add GitHub repo)*  
+### 🔸 Portfolio — CodeWithArun
+- Personal site showcasing projects, blog, and contact.  
+- **Tech:** Next.js + Tailwind  
+- **Live:** *(add link)* — **Repo:** *(add repo link)*
 
----
-
-### 🔹 **Portfolio Website**
-Modern portfolio built using **Next.js + Tailwind CSS**, featuring animations, project pages, and responsive design.
-
-🔗 **Live Demo:** *(Add link)*  
-🔗 **Source Code:** *(Add GitHub repo)*  
-
----
-
-### 🔹 **Virtual Try-On Application (AI + OpenCV)**
-Real-time T-shirt fitting system using OpenCV & Tkinter with gesture detection.
-
-🔗 **Source Code:** *(Add repo link)*
+### 🔸 Virtual Try-On App
+- Real-time T-shirt overlay using OpenCV (Python & Tkinter).  
+- **Repo:** *(add repo link)*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub & Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar&layout=compact&theme=dark&hide_border=true" alt="top langs" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arunkumar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Arunkumar&theme=dark" alt="streak" />
 </p>
 
+> **Tip:** To enable the animated "snake" or other contribution graph visuals, add this service or image generated externally and embed it as an image in this section.
+
 ---
 
-## 📫 Connect With Me
+## 🗺️ Roadmap — Next 6 months
 
-- 🌐 **Portfolio:** (Add link)  
-- 🔗 **LinkedIn:** (Add link)  
-- 📧 **Email:** (Your email)  
-- 🏷️ **Brand:** CodeWithArun  
+- Q1 — Improve AI Code Reviewer scoring & add language-specific rules  
+- Q2 — Launch improved Portfolio (dark-mode-first, faster load, i18n)  
+- Q3 — Build a set of open-source dev utilities under **CodeWithArun**  
+- Q4 — Learn and integrate ML/LLM-based code transformation tools
+
+---
+
+## 🎨 Banner & Logo — Use / Download
+
+- **Banner you uploaded (use in repo `/assets/banner-dark.png`):**  
+  `sandbox:/mnt/data/A_vector-based_digital_graphic_features_a_logo_des.png`
+
+> Download link (server-side path): `sandbox:/mnt/data/A_vector-based_digital_graphic_features_a_logo_des.png`  
+> (Place the file in your repo under `assets/banner-dark.png` or `/public`.)
+
+---
+
+## 🧾 How to use this README (quick)
+
+1. Replace placeholders: `REPO-NAME`, live/demo links, and repo links.  
+2. Place the banner image into your repo at `assets/banner-dark.png` (or `/public/banner-dark.png`).  
+3. If you want SVG badges with your exact brand colors, I can generate inline SVG files to add to `/assets/badges/`.
+
+---
+
+## 📫 Contact
+
+- **Portfolio:** *(add link)*  
+- **LinkedIn:** *(add URL)*  
+- **Email:** *(your email)*  
+- **Brand:** CodeWithArun
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  ⭐ If you like my work, please give my repos a star & follow for updates!
 </p>
