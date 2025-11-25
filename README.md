@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Banner image (downloaded to your repo or served from public/) -->
-  <img src="https://raw.githubusercontent.com/Arunkumar/REPO-NAME/main/assets/banner-dark.png" alt="CodeWithArun Banner" width="100%" />
+  <img src=""C:/Users/jayam/Downloads/codewitharun logo.png"" alt="CodeWithArun Banner" width="100%" />
 </p>
 
 <h1 align="center">
