@@ -24,9 +24,3 @@
 - **Frameworks:** Django, Flask, React, Next.js, Vue.js, Three.js  
 - **Libraries:** TensorFlow, Scikit-Learn, OpenCV, pandas, NumPy  
 - **Tools:** Git, Docker, Jenkins, MongoDB
-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar204&show_icons=true&locale=en&layout=compact" alt="arunkumar204" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar204&show_icons=true&locale=en" alt="arunkumar204" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar204&" alt="arunkumar204" /></p>
